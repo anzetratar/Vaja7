@@ -10,12 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("fafi");
-            Console.WriteLine("fafi2");
-
-            Console.WriteLine("fafi3");
-            Console.ReadKey(true);
-            Console.Write("fafi4");
+            //The man who fears suffering, already suffers from what he fears
         }
     }
 }
