@@ -30,4 +30,14 @@ public class Pravokotnik
         a = str_a;
         b = str_b;
     }
+
+    public double Ploscina()
+    {
+        return a * b;
+    }
+
+    public double Obseg()
+    {
+        return 2*a + 2*b;
+    }
 }
