@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //The man who fears suffering, already suffers from what he fears
+            //hej teach
         }
     }
 }
