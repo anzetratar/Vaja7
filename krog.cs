@@ -5,5 +5,8 @@ public class Krog
 	public Krog()
 	{
 		private int r;
+	    r = 1;
+	
+	    
 }
 }
