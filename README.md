@@ -1,3 +1,1 @@
-Hej Sven! Hej Anže!
-kaj je pička kaj boš a
-A boš tih!
+Hej Sven! Hej Prof (short for professor)
