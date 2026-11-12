@@ -15,6 +15,7 @@ namespace ConsoleApp1
 
             p.Ploscina();
             p1.Ploscina();
+            
             Krog krog1 = new Krog(5);
             Krog krog2 = new Krog(6);
             krog1.ploscina();
