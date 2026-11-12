@@ -10,7 +10,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Krog krog1 = new Krog();
+            Krog krog1 = new Krog(5);
+            Krog krog2 = new Krog(6);
+            krog1.ploscina();
+            krog2.ploscina();
         }
             
     }

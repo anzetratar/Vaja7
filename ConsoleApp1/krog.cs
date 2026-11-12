@@ -34,4 +34,4 @@ namespace ConsoleApp1
             Console.WriteLine("Obseg kroga je: " + obseg);
         }
     }
-}
+}   
