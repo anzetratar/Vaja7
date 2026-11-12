@@ -17,6 +17,11 @@ namespace ConsoleApp1
             Console.ReadKey(true);
             Console.Write("fafi4");
 
+            Pravokotnik p = new Pravokotnik(3, 3);
+            Pravokotnik p1 = new Pravokotnik(6, 4);
+
+            p.Ploscina();
+            p1.Ploscina();
         }
     }
 }
