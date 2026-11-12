@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("fafi");
             Console.WriteLine("fafi2");
+            Console.WriteLine("fafi3");
         }
     }
 }
