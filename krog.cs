@@ -12,5 +12,9 @@ public class Krog
     {
         r = a;
     }
-    
+    private void nastavir()
+    {
+     Console.Write("Vnesi polmer kroga: ");
+     Krog.r = int.Parse(Console.ReadLine());
+}   
 }
