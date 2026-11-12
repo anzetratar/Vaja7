@@ -2,7 +2,11 @@
 
 public class Pravokotnik
 {
-	public Class1()
+	private double a;
+	private double b;
+
+    public Pravokotnik()
 	{
+		
 	}
 }
