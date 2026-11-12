@@ -7,6 +7,13 @@ public class Pravokotnik
 
     public Pravokotnik()
 	{
-		
-	}
+		a = 1;
+		b = 1;
+    }
+
+	public Pravokotnik(double a, double b)
+	{
+        this.a = a;
+        this.b = b;
+    }
 }
