@@ -12,9 +12,20 @@ public class Krog
     {
         r = a;
     }
-    private void nastavir()
+    public void nastavir()
     {
      Console.Write("Vnesi polmer kroga: ");
      Krog.r = int.Parse(Console.ReadLine());
 }   
+public void ploscina()
+{
+    double ploscina = Math.PI * r * r;
+    Console.WriteLine("Ploščina kroga je: " + ploscina);
+}
+
+public void obseg()
+{
+    double obseg = 2 * Math.PI * r;
+    Console.WriteLine("Obseg kroga je: " + obseg);
+}
 }
