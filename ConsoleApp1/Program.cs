@@ -10,13 +10,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("fafi");
-            Console.WriteLine("fafi2");
-
-            Console.WriteLine("fafi3");
-            Console.ReadKey(true);
-            Console.Write("fafi4");
-
             Pravokotnik p = new Pravokotnik(3, 3);
             Pravokotnik p1 = new Pravokotnik(6, 4);
 
