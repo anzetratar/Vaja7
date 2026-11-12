@@ -16,6 +16,7 @@ namespace ConsoleApp1
             Console.WriteLine("fafi3");
             Console.ReadKey(true);
             Console.Write("fafi4");
+
         }
     }
 }
